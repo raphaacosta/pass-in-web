@@ -1,30 +1,43 @@
-# React + TypeScript + Vite
+<div align="center">
+  <div>
+    <img src="./src/assets/Thumbnail.png" alt="PassIn" width="450px"/>
+  </div>
+  <a target="_blank" href="https://linktr.ee/rocketseat">
+    <img src="https://img.shields.io/badge/Made%20by-rocketseat-blueviolet" alt="Made by Rocketseat">
+  </a>
+  <a target="_blank" href="https://github.com/diego3g">
+    <img src="https://img.shields.io/badge/Ministered%20by-Diego%20Fernandes-blueviolet" alt="Ministered by Diego Fernandes">
+  </a>
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-2-blueviolet" alt="NLW 2">
+  <div style="margin-top: 10px;">
+    <a target="_blank" href="https://github.com/raphaacosta/Proffy-API">
+      <img src="https://img.shields.io/badge/Go%20to-API-blueviolet" alt="Proffy API"/>
+    </a>
+    <a href="https://github.com/raphaacosta/Proffy-Mobile">
+      <img src="https://img.shields.io/badge/Go%20to-Mobile-blueviolet" alt="Proffy Mobile"/>
+    </a>
+    <h2>
+      Made with 💜
+    </h2>
+  </div>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📷 Screenshots
 
-Currently, two official plugins are available:
+<div align="center" style="display: gird; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 1fr); gap: 10px 20px;">
+  <img src="./src/assets/home-screenshot.jpg" alt="home page" >
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🚀 Running 
 
-## Expanding the ESLint configuration
+ To run this application, clone this repository by: `$ git clone https://github.com/raphaacosta/Proffy-Web.git`.
+ - Install the dependencies by: `$ yarn install`.
+ - Run `$ yarn start` (if the browser don't open, open it and access `localhost:3000`)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+# 📌 Techs
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+ - [Npm](https://nodejs.org/en)
+ - [Typescript](https://www.typescriptlang.org/)
+ - [React.js](https://pt-br.reactjs.org/)
+ - [Tailwindcss](https://tailwindcss.com/)
+ - [Dayjs](https://day.js.org/)
