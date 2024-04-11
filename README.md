@@ -30,9 +30,9 @@
 
 # 🚀 Running 
 
- To run this application, clone this repository by: `$ git clone https://github.com/raphaacosta/Proffy-Web.git`.
- - Install the dependencies by: `$ yarn install`.
- - Run `$ yarn start` (if the browser don't open, open it and access `localhost:3000`)
+ To run this application, clone this repository by: `$ git clone https://github.com/raphaacosta/pass-in-web.git`.
+ - Install the dependencies by: `$ npm i`.
+ - Run `$ npm run dev` (if the browser don't open, open it and access `http://localhost:5173/`)
 
 # 📌 Techs
 
