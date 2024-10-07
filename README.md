@@ -8,13 +8,13 @@
   <a target="_blank" href="https://github.com/diego3g">
     <img src="https://img.shields.io/badge/Ministered%20by-Diego%20Fernandes-blueviolet" alt="Ministered by Diego Fernandes">
   </a>
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-2-blueviolet" alt="NLW 2">
+  <img src="https://img.shields.io/badge/Next%20Level%20Week-2-blueviolet" alt="NLW Unite">
   <div style="margin-top: 10px;">
-    <a target="_blank" href="https://github.com/raphaacosta/Proffy-API">
-      <img src="https://img.shields.io/badge/Go%20to-API-blueviolet" alt="Proffy API"/>
+    <a target="_blank" href="https://github.com/raphaacosta/pass-in-server">
+      <img src="https://img.shields.io/badge/Go%20to-API-blueviolet" alt="Pass-in API"/>
     </a>
-    <a href="https://github.com/raphaacosta/Proffy-Mobile">
-      <img src="https://img.shields.io/badge/Go%20to-Mobile-blueviolet" alt="Proffy Mobile"/>
+    <a href="https://github.com/raphaacosta/pass-in-Mobile">
+      <img src="https://img.shields.io/badge/Go%20to-Mobile-blueviolet" alt="Pass-in Mobile"/>
     </a>
     <h2>
       Made with 💜
